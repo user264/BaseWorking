@@ -1,7 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Отказано в доступе по пути "c:\users\семья\desktop\codework\project2\debug\project2.exe".
-  Source.cpp
-  Source1.cpp
-c:\users\семья\desktop\codework\project2\project2\source1.cpp(15): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\семья\desktop\codework\project2\project2\source1.cpp(22): warning C4018: <: несоответствие типов со знаком и без знака
-  Создание кода...
-LINK : fatal error LNK1104: не удается открыть файл "C:\Users\Семья\Desktop\Codework\Project2\Debug\Project2.exe"
